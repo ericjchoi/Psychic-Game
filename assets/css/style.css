@@ -1,0 +1,13 @@
+/* HW3 Psychic Game */
+h1, p {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+h1 {
+    font-size: 3rem;
+    line-height: 5rem;
+}
+p {
+    display: inline;
+    font-size: 1.2rem;
+    line-height: 3rem;
+}
